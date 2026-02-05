@@ -77,6 +77,39 @@ PC3(V20)  PC4(V20)
 
 ---
 
+---
+
+## 🔍 Check Available Interfaces
+
+Sebelum melakukan konfigurasi, pastikan terlebih dahulu nama interface yang tersedia
+pada router dan switch untuk menghindari kesalahan konfigurasi.
+
+Gunakan perintah berikut:
+```
+show ip interface brief
+```
+
+
+Contoh output:
+
+```
+Interface IP-Address OK? Method Status Protocol
+FastEthernet0/0 unassigned YES unset up up
+FastEthernet0/1 unassigned YES unset down down
+GigabitEthernet0/0 unassigned YES unset up up
+```
+
+Keterangan:
+- **Interface** : Nama port yang tersedia
+- **IP-Address** : IP yang terpasang
+- **Status/Protocol** : Kondisi interface (harus `up/up`)
+- **up/up** : Interface aktif
+- **down/down** : Interface mati / belum terhubung
+
+Langkah ini penting untuk memastikan apakah device menggunakan
+FastEthernet atau GigabitEthernet sebelum melakukan konfigurasi.
+
+
 ## Switch Configuration
 
 ```
