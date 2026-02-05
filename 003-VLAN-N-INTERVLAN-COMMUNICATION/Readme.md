@@ -1,4 +1,4 @@
-# 🧪 Lab 03 — VLAN & Inter-VLAN Routing
+# 🧪 Lab 03 — VLAN 
 
 Lab ini membahas segmentasi jaringan menggunakan VLAN dan komunikasi antar VLAN menggunakan router.
 
@@ -7,8 +7,7 @@ Lab ini membahas segmentasi jaringan menggunakan VLAN dan komunikasi antar VLAN 
 ## Objectives
 - Memahami konsep VLAN
 - Segmentasi network
-- Konfigurasi access & trunk
-- Inter-VLAN routing
+
 
 ---
 
