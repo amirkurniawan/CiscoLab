@@ -3,6 +3,17 @@
 ### Target:
 👉 PC beda network bisa komunikasi lewat router.
 
+---
+
+## 🖥 Device Specification
+
+| Device | Model | Description |
+|--------|-------|-------------|
+| Router | Cisco 1941 | Used for basic routing |
+| Switch | Cisco 2960 | Layer 2 switch |
+| PC     | Generic PC | End device |
+
+
 
 ## Topologi
 PC0 ─ Switch0 ─ Router ─ Switch1 ─ PC1
