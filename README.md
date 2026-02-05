@@ -1,2 +1,88 @@
-# CiscoLab
-Membangun fundamental networking sebagai bekal System Engineer / DevOps / Network Engineer.
+# 🚀 CiscoLab — Networking Learning Journey
+
+Repository ini berisi dokumentasi pembelajaran jaringan komputer menggunakan **Cisco Packet Tracer**.
+
+Fokus utama:
+> Membangun fundamental networking sebagai bekal System Engineer / DevOps / Network Engineer.
+
+---
+
+## 📌 Objectives
+- Memahami konsep dasar jaringan (LAN, IP, Subnet, Routing)
+- Praktik langsung menggunakan simulasi
+- Membangun dokumentasi teknis yang rapi
+- Menyiapkan portfolio networking
+
+---
+
+## 🧪 Lab Structure
+
+Setiap lab disimpan dalam folder terpisah:
+
+CiscoLab/
+├── Lab01-BasicLAN/
+├── Lab02-Routing/
+├── Lab03-VLAN/
+├── Lab04-NAT/
+└── Notes/
+
+
+Setiap folder berisi:
+- File `.pkt` (Cisco Packet Tracer)
+- README.md (dokumentasi lab)
+
+---
+
+## 📚 Learning Path
+
+| Level | Materi            | Status |
+|-------|-------------------|--------|
+| 01    | Basic LAN         | ✅ Done |
+| 02    | Routing           | ⏳ On Progress |
+| 03    | VLAN & Trunking   | ⏳ Planned |
+| 04    | NAT & ACL         | ⏳ Planned |
+| 05    | Network Security  | ⏳ Planned |
+
+---
+
+## 🛠 Tools & Environment
+- Cisco Packet Tracer
+- Git & GitHub
+- Linux / Windows
+- Terminal / CLI
+
+---
+
+## 📖 Documentation Style
+Setiap lab didokumentasikan dengan format:
+
+- Topologi
+- IP Addressing
+- Configuration
+- Testing
+- Result
+- Notes
+
+Tujuan: mudah dipahami dan bisa direview ulang.
+
+---
+
+## 🎯 Goals
+- Konsisten belajar networking
+- Siap ke level CCNA / DevOps
+- Punya portfolio teknis
+- Siap terjun ke environment production
+
+---
+
+## 📈 Progress
+Repo ini akan terus diperbarui seiring proses belajar.
+
+Stay curious. Keep practicing. 🚀
+
+---
+
+## 👤 Author
+**Amir Kurniawan**  
+IT Development | Networking | DevOps
+
