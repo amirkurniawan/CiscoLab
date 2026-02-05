@@ -18,13 +18,10 @@ Fokus utama:
 ## 🧪 Lab Structure
 
 Setiap lab disimpan dalam folder terpisah:
-
+```
 CiscoLab/
-├── Lab01-BasicLAN/
-├── Lab02-Routing/
-├── Lab03-VLAN/
-├── Lab04-NAT/
-└── Notes/
+├── 001_Basic_LAN
+```
 
 
 Setiap folder berisi:
