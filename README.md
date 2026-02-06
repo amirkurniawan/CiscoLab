@@ -22,6 +22,7 @@ Setiap lab disimpan dalam folder terpisah:
 CiscoLab/
 ├── 001_Basic_LAN
 ├── 002_Routing_Basic
+├── 002_VLAN_InterVLAN_Communication
 ```
 
 
