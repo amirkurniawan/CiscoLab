@@ -1,4 +1,4 @@
-# 🧪 Lab 03 — VLAN 
+# 🧪 Lab 03 — VLAN & InterVLAN Communication
 
 Lab ini membahas segmentasi jaringan menggunakan VLAN dan komunikasi antar VLAN menggunakan router.
 
