@@ -38,7 +38,7 @@ Setiap folder berisi:
 |-------|-------------------|--------|
 | 01    | Basic LAN         | ✅ Done |
 | 02    | Routing           | ✅ Done |
-| 03    | VLAN & Trunking   | ⏳ Planned |
+| 03    | VLAN & Trunking   | ✅ Done |
 | 04    | NAT & ACL         | ⏳ Planned |
 | 05    | Network Security  | ⏳ Planned |
 
