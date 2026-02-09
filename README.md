@@ -25,6 +25,7 @@ CiscoLab/
 ├── 003_VLAN_InterVLAN_Communication
 ├── 004_Subnetting&IPAddressPlanning
 ├── 005_DHCP Server & DHCP Relay
+├── 006_DHCP Dedicated Server
 ```
 
 
