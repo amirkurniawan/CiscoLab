@@ -22,7 +22,8 @@ Setiap lab disimpan dalam folder terpisah:
 CiscoLab/
 ├── 001_Basic_LAN
 ├── 002_Routing_Basic
-├── 002_VLAN_InterVLAN_Communication
+├── 003_VLAN_InterVLAN_Communication
+├── 004_Subnetting&IPAddressPlanning
 ```
 
 
@@ -39,8 +40,9 @@ Setiap folder berisi:
 | 01    | Basic LAN         | ✅ Done |
 | 02    | Routing           | ✅ Done |
 | 03    | VLAN & Trunking   | ✅ Done |
-| 04    | NAT & ACL         | ⏳ Planned |
-| 05    | Network Security  | ⏳ Planned |
+| 04    | Subnetting & IP Address Planning         | ✅ Done |
+| 05    | NAT & ACL         | ⏳ Planned |
+| 06    | Network Security  | ⏳ Planned |
 
 ---
 
