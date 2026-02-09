@@ -24,6 +24,7 @@ CiscoLab/
 ├── 002_Routing_Basic
 ├── 003_VLAN_InterVLAN_Communication
 ├── 004_Subnetting&IPAddressPlanning
+├── 005_DHCP Server & DHCP Relay
 ```
 
 
