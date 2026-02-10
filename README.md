@@ -26,6 +26,7 @@ CiscoLab/
 ├── 004_Subnetting&IPAddressPlanning
 ├── 005_DHCP Server & DHCP Relay
 ├── 006_DHCP Dedicated Server
+├── 007_Static_Routing_MultiPath
 ```
 
 
