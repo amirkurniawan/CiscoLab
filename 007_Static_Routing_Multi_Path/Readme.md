@@ -512,12 +512,25 @@ PC-JKT gak bisa ping PC-SBY?
 
 ## 📝 Catatan untuk README di GitHub
 
-Setelah selesai, tambahkan:
 - Screenshot topologi di Packet Tracer
+- <img width="982" height="1034" alt="image" src="https://github.com/user-attachments/assets/42847fdd-5958-4da1-9d84-557dcb6b3fc1" />
+
 - Screenshot `show ip route` saat primary aktif
+  <img width="776" height="231" alt="image" src="https://github.com/user-attachments/assets/cba71a30-6355-4abc-a041-78af4cd08ad8" />
+
 - Screenshot `show ip route` saat primary down (failover)
+  <img width="834" height="408" alt="image" src="https://github.com/user-attachments/assets/1fcd2a13-0ac0-43c5-bb0f-c9d643101824" />
+
 - Screenshot traceroute via primary path
+  <img width="579" height="241" alt="image" src="https://github.com/user-attachments/assets/38e5b9eb-7bd6-42c8-aeb6-408e7c796fd5" />
+  <img width="633" height="170" alt="image" src="https://github.com/user-attachments/assets/9d669aa6-82a1-4482-a3d6-08c6b35df395" />
+
+
 - Screenshot traceroute via backup path
+  <img width="566" height="129" alt="image" src="https://github.com/user-attachments/assets/8a8b9aaa-11b7-4e95-978b-a1ae511a19cf" />
+  <img width="708" height="181" alt="image" src="https://github.com/user-attachments/assets/ebc56acb-bb08-4d46-8fd9-e6f3f6a23fea" />
+
+
 - File `.pkt` (Packet Tracer save file)
 
 ---
