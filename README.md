@@ -44,8 +44,12 @@ Setiap folder berisi:
 | 02    | Routing           | ✅ Done |
 | 03    | VLAN & Trunking   | ✅ Done |
 | 04    | Subnetting & IP Address Planning         | ✅ Done |
-| 05    | NAT & ACL         | ⏳ Planned |
-| 06    | Network Security  | ⏳ Planned |
+| 05    | DHCP Server & DHCP Relay         | ✅ Done |
+| 06    | DHCP Dedicated Server         | ✅ Done |
+| 07    | Static_Routing_MultiPath         | ✅ Done |
+| 08    | OSPF Single Area         | ✅ Done |
+| 09    | NAT & ACL         | ⏳ Planned |
+| 10    | Network Security  | ⏳ Planned |
 
 ---
 
