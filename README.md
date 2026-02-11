@@ -27,6 +27,7 @@ CiscoLab/
 ├── 005_DHCP Server & DHCP Relay
 ├── 006_DHCP Dedicated Server
 ├── 007_Static_Routing_MultiPath
+├── 008_OSPF_Single_Area
 ```
 
 
