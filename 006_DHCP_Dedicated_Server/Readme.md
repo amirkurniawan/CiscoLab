@@ -382,8 +382,8 @@ PC dapat 0.0.0.0?
 | Command | Dimana | Fungsi |
 |---------|--------|--------|
 | `show running-config \| include helper` | Router | Cek helper-address per interface |
-| `show running-config | section interface` | Router | Cek helper-address per interface |
-| `show running-config | section GigabitEthernet0/1` | Router | Cek helper-address per interface Detail |
+| `show running-config \| section interface` | Router | Cek helper-address per interface |
+| `show running-config \| section GigabitEthernet0/1` | Router | Cek helper-address per interface Detail |
 | `show ip dhcp binding` | Router | Harus kosong (DHCP bukan di router) |
 | `show ip dhcp pool` | Router | Harus kosong |
 | `show interfaces trunk` | Switch | Cek trunk aktif |
