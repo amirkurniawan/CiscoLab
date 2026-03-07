@@ -605,13 +605,22 @@ copy running-config startup-config
 
 ---
 
-## 📝 Catatan untuk README di GitHub
+## 📝 Result
 
-Setelah selesai, tambahkan:
+<img width="1558" height="1285" alt="image" src="https://github.com/user-attachments/assets/b627def3-5fa2-4af4-a202-edcd1e932acd" />
+
 - Screenshot `show access-lists` (dengan hit count)
+- <img width="938" height="416" alt="image" src="https://github.com/user-attachments/assets/df9808db-2cbb-4884-9fef-b14955a4597a" />
+
 - Screenshot ping test matrix (yang permit dan yang deny)
+- <img width="662" height="126" alt="image" src="https://github.com/user-attachments/assets/d15c326f-c9c9-4ff3-967d-2ea297a61753" />
+- <img width="610" height="114" alt="image" src="https://github.com/user-attachments/assets/56ff0062-a096-4150-b181-88307a03c6f5" />
+
+
 - Screenshot `show ip interface` yang menunjukkan ACL applied
-- File `.pkt`
+- <img width="727" height="242" alt="image" src="https://github.com/user-attachments/assets/29044c2c-43b2-4f08-b24a-714866c4857d" />
+
+
 
 ---
 
