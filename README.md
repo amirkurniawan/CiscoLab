@@ -52,7 +52,7 @@ Setiap folder berisi:
 | 07    | Static_Routing_MultiPath         | ✅ Done |
 | 08    | OSPF Single Area         | ✅ Done |
 | 09    | ACL          | ✅ Done |
-| 10    | NAT & PAT | ⏳ Planned |
+| 10    | NAT & PAT | ✅ Done |
 
 ---
 
