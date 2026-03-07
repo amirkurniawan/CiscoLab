@@ -472,6 +472,13 @@ access-list 110 deny ip 192.168.10.0 0.0.0.63 192.168.10.96 0.0.0.15
 ! Ini block 192.168.10.0 - 192.168.10.63 → hanya Engineering
 ```
 
+#### 6. Menggunakan DHCP server
+! tambahan settingan ACL berikut untuk ALLOW DHCP
+```ip access-list extended RULES-ENG
+ 10 permit udp any any eq 67
+ 20 permit udp any any eq 68
+```
+
 ### Cara Hapus dan Buat Ulang ACL
 
 ```cisco
@@ -520,6 +527,28 @@ ip access-list extended BLOCK-ENG-TO-FIN
 ! Apply sama seperti numbered:
 interface GigabitEthernet0/0.10
  ip access-group BLOCK-ENG-TO-FIN in
+```
+
+! Hapus semua extended dalam satu list
+```
+configure terminal
+
+! ============================================
+! Hapus ACL lama
+! ============================================
+interface GigabitEthernet0/0.10
+ no ip access-group RULES-ENG in
+exit
+interface GigabitEthernet0/1.20
+ no ip access-group RULES-SW-OFFICE in
+exit
+interface GigabitEthernet0/1.30
+ no ip access-group RULES-SW-OFFICE-30 in
+exit
+
+no ip access-list extended RULES-ENG
+no ip access-list extended RULES-SW-OFFICE
+no ip access-list extended RULES-SW-OFFICE-30
 ```
 
 ### Command Cheat Sheet
