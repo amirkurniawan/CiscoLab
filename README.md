@@ -29,6 +29,7 @@ CiscoLab/
 ├── 007_Static_Routing_MultiPath
 ├── 008_OSPF_Single_Area
 ├── 009_ACL_Standard_And_Extended
+├── 010_NAT_PAT(Network-Address-Translation)
 ```
 
 
@@ -50,8 +51,8 @@ Setiap folder berisi:
 | 06    | DHCP Dedicated Server         | ✅ Done |
 | 07    | Static_Routing_MultiPath         | ✅ Done |
 | 08    | OSPF Single Area         | ✅ Done |
-| 09    | NAT & ACL         | ✅ Done |
-| 10    | Network Security  | ⏳ Planned |
+| 09    | ACL          | ✅ Done |
+| 10    | NAT & PAT | ⏳ Planned |
 
 ---
 
